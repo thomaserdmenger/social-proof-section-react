@@ -5,7 +5,7 @@ function ReviewElements(props) {
     const avatar = <img src={props.source[index]} className="review__image" alt="avatars" />
     // const review = <p>{</p>
     return (
-      <div className="review__element" key={index}>
+      <div className="review__element" id={'review_' + index} key={'review_' + index}>
         <div className="review__media">
           <div>{avatar}</div>
           <div className="review__name">
