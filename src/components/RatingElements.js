@@ -5,7 +5,7 @@ function RatingElements(props) {
     return (
       <div className="rating__element" id={'rating_' + index} key={'rating_' + index}>
         <div className="rating__stars" key={'stars' + index}>
-          <img src="/images/icon-star.svg" alt="" />
+          <img src="/icon-star.svg" alt="" />
           <img src="/images/icon-star.svg" alt="" />
           <img src="/images/icon-star.svg" alt="" />
           <img src="/images/icon-star.svg" alt="" />
