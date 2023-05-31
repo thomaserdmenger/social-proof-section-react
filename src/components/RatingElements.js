@@ -6,10 +6,10 @@ function RatingElements(props) {
       <div className="rating__element" id={'rating_' + index} key={'rating_' + index}>
         <div className="rating__stars" key={'stars' + index}>
           <img src="/icon-star.svg" alt="" />
-          <img src="/images/icon-star.svg" alt="" />
-          <img src="/images/icon-star.svg" alt="" />
-          <img src="/images/icon-star.svg" alt="" />
-          <img src="/images/icon-star.svg" alt="" />
+          <img src="../images/icon-star.svg" alt="" />
+          <img src="./images/icon-star.svg" alt="" />
+          <img src="/public/images/icon-star.svg" alt="" />
+          <img src="./public/images/icon-star.svg" alt="" />
         </div>
         <p className="rating__text" key={'rating_text_' + index}>
           {rating}
