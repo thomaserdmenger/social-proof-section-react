@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/social-proof-section-react/static/css/main.dc62ccf4.css",
+    "main.js": "/social-proof-section-react/static/js/main.84babbbe.js",
+    "static/js/787.698bd9ca.chunk.js": "/social-proof-section-react/static/js/787.698bd9ca.chunk.js",
+    "index.html": "/social-proof-section-react/index.html",
+    "static/media/bg-pattern-bottom-desktop.svg": "/social-proof-section-react/static/media/bg-pattern-bottom-desktop.32aa6571dc718836bdfc.svg",
+    "static/media/bg-pattern-bottom-mobile.svg": "/social-proof-section-react/static/media/bg-pattern-bottom-mobile.593835ec67fd27ee2a62.svg",
+    "static/media/bg-pattern-top-desktop.svg": "/social-proof-section-react/static/media/bg-pattern-top-desktop.9d4ba9c9b19e4c6be1e6.svg",
+    "static/media/bg-pattern-top-mobile.svg": "/social-proof-section-react/static/media/bg-pattern-top-mobile.58eed600d32e18ece9dc.svg",
+    "main.dc62ccf4.css.map": "/social-proof-section-react/static/css/main.dc62ccf4.css.map",
+    "main.84babbbe.js.map": "/social-proof-section-react/static/js/main.84babbbe.js.map",
+    "787.698bd9ca.chunk.js.map": "/social-proof-section-react/static/js/787.698bd9ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc62ccf4.css",
+    "static/js/main.84babbbe.js"
+  ]
+}
